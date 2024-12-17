@@ -1,0 +1,18 @@
+{
+  "name": "new-backend4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server",
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.0",
+    "nodemon": "^3.1.7"
+  }
+}
